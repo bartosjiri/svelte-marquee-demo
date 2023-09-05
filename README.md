@@ -4,7 +4,7 @@ A demo of a custom responsive marquee/ticker component in a [Svelte](https://sve
 
 ## Preview
 
-Try it yourself [here](@TODO)!
+Try it yourself [here](https://svelte-marquee-demo.vercel.app)!
 
 ![Preview animation](./static/preview.gif)
 
@@ -15,4 +15,4 @@ Try it yourself [here](@TODO)!
 
 ## Guide
 
-- [Twitter thread](@TODO)
+- [Twitter thread](https://twitter.com/bartosjiri_/status/1698985341951058410)

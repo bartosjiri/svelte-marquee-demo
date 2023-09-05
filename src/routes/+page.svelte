@@ -21,8 +21,8 @@
 		<span>Item 5</span>
 	</div>
 </Marquee>
-<a href="@TODO" target="_blank">Source code</a>
-<a href="@TODO" target="_blank">Guide</a>
+<a href="https://github.com/bartosjiri/svelte-marquee-demo" target="_blank">Source code</a>
+<a href="https://twitter.com/bartosjiri_/status/1698985341951058410" target="_blank">Guide</a>
 
 <style lang="scss">
 	:global(.marquee-container) {
